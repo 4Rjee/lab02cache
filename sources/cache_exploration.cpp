@@ -60,7 +60,7 @@ void cache_exploration::reverse_travel() {
                           CLOCKS_PER_SEC * One_thousand);
     delete[] arr;
     ++k;
-  }
+  }/home/kochu/labs/lab-01-parser
 }
 void cache_exploration::random_travel() {
   travel_variant = "random";
