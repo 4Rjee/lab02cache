@@ -353,4 +353,4 @@ duration: 2178.81ms
 
 Process finished with exit code 0
 ````
-![CHART](results.jpg)
+![Results](results.jpg)
