@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 Kochurin Nikita kochurin.nikita@gmail.com
 
 #ifndef INCLUDE_CACHE_EXPLORATION_HPP_
 #define INCLUDE_CACHE_EXPLORATION_HPP_

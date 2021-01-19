@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 Kochurin Nikita kochurin.nikita@gmail.com
 
 #include "cache_exploration.hpp"
 
