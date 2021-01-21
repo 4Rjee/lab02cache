@@ -202,7 +202,6 @@ results:
 duration: 33.201ms
 - experiment:
 number: 7
-input_data:
 buffer_size: 2048KB
 results:
 duration: 67.233ms
@@ -350,7 +349,6 @@ input_data:
 buffer_size: 9216KB
 results:
 duration: 2178.81ms
-
-Process finished with exit code 0
 ````
-![Results](results.jpg)
+
+![Results](./images/result.jpg)
